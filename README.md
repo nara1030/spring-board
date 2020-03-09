@@ -5,34 +5,43 @@
 - - -
 ## 목차
 1. [Todo](#Todo)
-2. [참고](#참고)
+2. [기록](#기록)
+3. [참고](#참고)
 
 ## Todo
-- [ ] 검색
-- [ ] 게시글 CRUD
-- [ ] 게시글 조회수
-- [ ] 계층형 답글/댓글
-- [ ] 페이징
-- [ ] 글/댓글 추천
-	- [ ] 상위 3개 상단 노출
+검색 및 리뷰 페이지로 구분된다.
+
+1. 검색
+	- [ ] 검색어 입력시 관련 3개 조회
+	- [ ] 검색어 미입력시 연령별 3개 조회
+	- [ ] 최근 검색어 표시
+2. 리뷰
+	- [ ] 검색
+	- [ ] 게시글 CRUD
+		- [ ] 검색 제외 로그인 필요
+		- [ ] 10개 단위 페이징
+		- [ ] 게시글 조회수
+	- [ ] 글/댓글 추천
+		- [ ] 상위 3개 상단 노출
+	- [ ] 계층형 답글/댓글
 
 - - -
-- [ ] 계층 구조 게시판  
-	```
-	└─ 지역
-		├─ 서울
-		├─ 경기도
-		└─ 충청도
-	```
-	- [ ] 펼침/숨김
-		- 상위 메뉴를 누르면 하위 메뉴들이 펼쳐짐
-	- [ ] 링크
-		- 최하위 게시판 클릭시 해당 게시글 목록 보임
-		- 특정 게시글 클릭시 게시글 내용 및 댓글 보임
-	- [ ] 권한
-		- 스탭 전용 게시판은 스탭만 열람 가능
-- [ ] 카카오 로그인 연동
-	- [ ] 마이페이지
+<img src="./img/review_board_1.png" width="800" height="380"></br>
+
+* [v_2](./docs/v_2.md)
+* v_3
+
+##### [목차로 이동](#목차)
+
+## 기록
+* JSON parse error
+	1. Cannot construct instance of  
+		<img src="./img/error_01.png" width="800" height="400"></br>
+		* 이 게시물과 같은 에러 발생: [can not construct instance of](https://brocess.tistory.com/150)
+		* [jackson custom serializer/deserializer 만들기](https://multifrontgarden.tistory.com/172)
+	2. Cannot deserialize value of type  
+		<img src="./img/error_01.png" width="800" height="300"></br>
+* .
 
 ##### [목차로 이동](#목차)
 
