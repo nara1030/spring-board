@@ -37,7 +37,7 @@
 * JSON parse error
 	1. Cannot construct instance of  
 		<img src="./img/error_01.png" width="800" height="400"></br>
-		* 이 게시물과 같은 에러 발생: [can not construct instance of](https://brocess.tistory.com/150)
+		* [이 게시물](https://brocess.tistory.com/150)과 같은 에러 발생
 		* [jackson custom serializer/deserializer 만들기](https://multifrontgarden.tistory.com/172)
 	2. Cannot deserialize value of type  
 		<img src="./img/error_01.png" width="800" height="300"></br>
