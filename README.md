@@ -1,7 +1,9 @@
 영화/도서 리뷰 사이트
 =====
 * 개발환경: Spring Boot 2, Java 8, Gradle
-* 스프링 관련 게시물 [참고](https://github.com/nara1030/spring-basic)
+* 참고
+	* [코드](https://github.com/spring-basic-study/openapi)
+	* [이론](https://github.com/nara1030/spring-basic)
 * ~~게시판에서 시작해 모듈(ex. 주문결제) 연동 목표~~
 - - -
 ## 목차
@@ -49,7 +51,13 @@
 ##### [목차로 이동](#목차)
 
 ## 참고
+* [The JSON Validator](https://jsonlint.com/)
+* [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
+* [POSTMAN 이용 REST API 호출](https://rwd337.tistory.com/173)
+* [POSTMAN 사용법](https://meetup.toast.com/posts/107)
+- - -
 * [계층형 댓글 파일럿 프로젝트](https://zuminternet.github.io/ZUM-Pilot-ryudung/)
+* [스프링 부트로 게시판 만들기](https://private.tistory.com/35)
 * [스프링 시큐리티 OAuth2 모듈을 이용한 카카오 로그인 연동하기](https://okky.kr/article/680363)
 * [SSO와 세션](https://linuxism.ustd.ip.or.kr/1516)
 
