@@ -29,6 +29,7 @@
 	- [ ] 글/댓글 추천
 		- [ ] 상위 3개 상단 노출
 	- [ ] 계층형 답글/댓글
+	- [ ] 자동 로그인
 
 - - -
 <img src="./img/review_board_1.png" width="800" height="380"></br>
@@ -56,9 +57,15 @@
 * [POSTMAN 이용 REST API 호출](https://rwd337.tistory.com/173)
 * [POSTMAN 사용법](https://meetup.toast.com/posts/107)
 - - -
+* 스프링 부트와 리액트 연동
+	* [스프링 부트와 리액트를 연동하여 개발환경을 만들어보자](https://sundries-in-myidea.tistory.com/71)
+	* [스프링 부트와 리액트를 이용한 블로그 개발](https://lucaskim.tistory.com/52)
+	* [스프링 부트와 vue/react 연동 방법](https://inspire12.tistory.com/223)
+	* [스프링 부트와 리액트를 함께 빌드하기](https://lemontia.tistory.com/912)
 * [계층형 댓글 파일럿 프로젝트](https://zuminternet.github.io/ZUM-Pilot-ryudung/)
-* [스프링 부트로 게시판 만들기](https://private.tistory.com/35)
 * [스프링 시큐리티 OAuth2 모듈을 이용한 카카오 로그인 연동하기](https://okky.kr/article/680363)
+* [스프링 부트 자동 로그인 처리](https://handcoding.tistory.com/205)
 * [SSO와 세션](https://linuxism.ustd.ip.or.kr/1516)
+* [스프링 부트로 게시판 만들기](https://private.tistory.com/35)
 
 ##### [목차로 이동](#목차)
