@@ -76,9 +76,10 @@ Windows PowerShell
 - - -
 * 스프링 부트와 리액트 연동
 	* [스프링 부트와 리액트를 연동하여 개발환경을 만들어보자](https://sundries-in-myidea.tistory.com/71)
-	* [스프링 부트와 리액트를 이용한 블로그 개발](https://lucaskim.tistory.com/52)
-	* [스프링 부트와 vue/react 연동 방법](https://inspire12.tistory.com/223)
 	* [스프링 부트와 리액트를 함께 빌드하기](https://lemontia.tistory.com/912)
+	* [Creating Spring Boot and React Java Full Stack Application with Maven](https://www.springboottutorial.com/spring-boot-react-full-stack-crud-maven-application)
+	* [Spring Boot and React: Happily Ever After](https://dzone.com/articles/spring-boot-and-react-happily-ever-after)
+	* [Spring Boot and ReactJs](https://medium.com/coding-crackerjack/spring-boot-and-reactjs-a50367d56521)
 * 스프링 부트 실행 파일 만들기
 	* [스프링 부트 프로젝트 jar 파일 생성 방법과 실행 방법](https://haenny.tistory.com/m/20)
 	* [실행 가능한 jar/war 파일 만들기](https://blog.leocat.kr/notes/2017/10/12/spring-boot-packaging-executable-jar-war)
