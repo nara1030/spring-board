@@ -2,8 +2,8 @@
     "name": "review_p",
     "version": "1.0.0",
     "scripts": {
-        "client": "cd src\\frontend && yarn start",
-        "server": "cd src && java -jar openapi\\build\\libs\\openapi-0.0.1-SNAPSHOT.jar",
+        "client": "cd frontend && yarn start",
+        "server": "java -jar openapi\\build\\libs\\openapi-0.0.1-SNAPSHOT.jar",
         "dev": "concurrently --kill-others-on-fail \"yarn server\" \"yarn client\""
     },
     "dependencies": {
