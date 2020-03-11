@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="909ac784-25c4-47dd-8f91-0a5d7b18b55d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/openapi/src/main/java/com/eom/openapi/controller/ReviewController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/openapi/src/main/java/com/eom/openapi/repository/response/BookItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/openapi/src/main/java/com/eom/openapi/repository/response/MovieItem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/openapi/src/main/java/com/eom/openapi/repository/response/MovieItems.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/openapi/src/main/java/com/eom/openapi/util/httpConfig/UriBuilder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/openapi/src/main/java/com/eom/openapi/util/searchConfig/Category.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/openapi/src/main/resources/log4j.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/openapi/src/main/resources/templates/cinema.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/build.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/openapi/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/openapi/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/openapi/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/src/openapi/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/openapi/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/openapi/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/openapi/src/main/java/com/eom/openapi/OpenApiApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/openapi/src/main/java/com/eom/openapi/OpenApiApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/openapi/src/main/java/com/eom/openapi/controller/SearchController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/openapi/src/main/java/com/eom/openapi/controller/SearchController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/openapi/src/main/java/com/eom/openapi/repository/response/BlogResponse.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/openapi/src/main/java/com/eom/openapi/repository/response/BlogResponseList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/openapi/src/main/java/com/eom/openapi/service/SearchService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/openapi/src/main/java/com/eom/openapi/service/SearchService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/openapi/src/main/java/com/eom/openapi/util/httpConfig/RestTemplateConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/openapi/src/main/java/com/eom/openapi/util/httpConfig/RestTemplateConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/openapi/src/main/java/com/eom/openapi/util/searchConfig/SearchProperties.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/openapi/src/main/java/com/eom/openapi/util/searchConfig/SearchProperties.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/openapi/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/openapi/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/openapi/src/test/java/com/eom/frispringbootstudy/FriSpringbootStudyApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/openapi/src/test/java/com/eom/openapi/OpenApiApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/settings.gradle" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/com/eom/openapi/OpenApiApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/com/eom/openapi/controller/ReviewController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/com/eom/openapi/controller/SearchController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/com/eom/openapi/repository/response/BookItems.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/com/eom/openapi/repository/response/MovieItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/com/eom/openapi/repository/response/MovieItems.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/com/eom/openapi/service/SearchService.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/com/eom/openapi/util/httpConfig/RestTemplateConfig.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/com/eom/openapi/util/httpConfig/UriBuilder.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/com/eom/openapi/util/searchConfig/Category.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/java/com/eom/openapi/util/searchConfig/SearchProperties.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/resources/log4j.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/main/resources/templates/cinema.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/src/test/java/com/eom/openapi/OpenApiApplicationTests.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/src/openapi" />
+  </component>
+  <component name="ProjectId" id="1YyLrGEgcAF4CVzVbGajt5vrzHE" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/openapi" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="909ac784-25c4-47dd-8f91-0a5d7b18b55d" name="Default Changelist" comment="" />
+      <created>1583910083884</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583910083884</updated>
+      <workItem from="1583910086018" duration="76000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="3537" y="455" key="FileChooserDialogImpl" timestamp="1583910157851">
+      <screen x="1920" y="0" width="2560" height="1400" />
+    </state>
+    <state x="3537" y="455" key="FileChooserDialogImpl/0.0.1536.824/1920.0.2560.1400@1920.0.2560.1400" timestamp="1583910157851" />
+  </component>
+</project>
