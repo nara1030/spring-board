@@ -2,7 +2,8 @@
 =====
 * 개발환경: Spring Boot 2, Java 8, Gradle
 * 참고
-	* [코드](https://github.com/spring-basic-study/openapi)
+	* [참고 예제 코드](https://github.com/spring-basic-study/openapi)
+	* [동일 프로젝트 JSP 이용 구현 코드](https://github.com/nara1030/board-jsp)
 	* [이론](https://github.com/nara1030/spring-basic)
 * ~~게시판에서 시작해 모듈(ex. 주문결제) 연동 목표~~
 - - -
