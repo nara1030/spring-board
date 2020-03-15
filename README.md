@@ -23,7 +23,8 @@
 2. 리뷰
 	- [ ] 검색
 	- [ ] 게시글 CRUD
-		- [ ] 검색 제외 로그인 필요
+		- [ ] 로그인 구현
+			- 검색 제외 로그인 필요(SSL)
 		- [ ] 10개 단위 페이징
 		- [ ] 게시글 조회수
 		- [ ] 게시글 저장/출력
@@ -92,5 +93,6 @@ Windows PowerShell
 * [스프링 부트 자동 로그인 처리](https://handcoding.tistory.com/205)
 * [SSO와 세션](https://linuxism.ustd.ip.or.kr/1516)
 * [스프링 부트로 게시판 만들기](https://private.tistory.com/35)
+* [HTTPS와 SSL 인증서](https://opentutorials.org/course/228/4894)
 
 ##### [목차로 이동](#목차)
